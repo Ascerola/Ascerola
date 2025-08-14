@@ -8,8 +8,8 @@ Fluent in **English** and **Spanish**, with excellent communication and problem-
 ## 🛠 Skills & Technologies
 
 **Languages & Frameworks**
-- Python, C++, C#, JavaScript, TypeScript  
-- React, Next.js, .NET MAUI
+- Python, C++, C#, Golang, JavaScript, TypeScript
+- React, Next.js, .NET MAUI, Kotlin
 
 **Tools & Platforms**
 - Git, Visual Studio Code, Postman, Docker, Azure DevOps Pipelines  
