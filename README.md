@@ -5,32 +5,6 @@ Fluent in **English** and **Spanish**, with excellent communication and problem-
 
 ---
 
-## 🛠 Skills & Technologies
-
-**Languages & Frameworks**
-- Python, C++, C#, Golang, JavaScript, TypeScript
-- React, Next.js, .NET MAUI, Kotlin
-
-**Tools & Platforms**
-- Git, Visual Studio Code, Postman, Docker, Azure DevOps Pipelines  
-- Selenium, Playwright
-
-**Soft Skills**
-- Excellent communication and teamwork abilities  
-- Strong discipline and outstanding problem-solving skills
-
----
-
-## 💼 Professional Experience
-
-**Junior Software Developer – Exceltec Business Solutions** *(June 2022 – Present, Heredia, Costa Rica)*
-- Automated **5+ manual processes**, increasing efficiency and reducing error rates.
-- Developed and maintained front-end components using **React** and **Next.js**.
-- Designed and implemented internal tools using **React** and **Python APIs**.
-- Integrated external APIs into existing systems, improving interoperability and boosting data retrieval efficiency by **30%**.
-
----
-
 ## 📂 Public Projects
 
 ### 1. [demo.chatbot](https://github.com/Ascerola/demo.chatbot) & [demo.api.chatbot](https://github.com/Ascerola/demo.api.chatbot)
@@ -62,5 +36,3 @@ A **Python** script for scraping data from the TSE (Tribunal Supremo de Eleccion
 - **LinkedIn**: [linkedin.com/in/erick-daniel-villalobos-muñoz-8b6256213](https://www.linkedin.com/in/erick-daniel-villalobos-muñoz-8b6256213)  
 - **Location**: Heredia Province, Costa Rica  
 
----
-⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*
